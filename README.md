@@ -8,6 +8,11 @@ RENT is featured in our paper *"Maximizing Confidence Alone Improves Reasoning"*
 
 RENT is built on top of the **[verl](https://github.com/volcengine/verl)** library.
 
+## Updates:
+
+[10/31]: we release a checkpoint RENT-Qwen-7B of Qwen2.5-7B-Instruct trained with RENT on AIME24. The model can be found at [this huggingface link](https://huggingface.co/aippolit/RENT-Qwen-7B)
+
+
 ## Installation:
 
 Please refer to the existing verl quickstart for installation : [verl Installation](https://verl.readthedocs.io/en/latest/start/install.html)
